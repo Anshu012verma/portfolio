@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "components": "^0.1.0",
+    "styled": "^1.0.0"
+  }
+}
