@@ -71,7 +71,7 @@ const SkillsGroup = styled.div`
     gap: 50px;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     border: 1px solid #222;
     border-radius: 12px;
     padding: 20px;

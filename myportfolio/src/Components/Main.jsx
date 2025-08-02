@@ -21,7 +21,7 @@ export default Main
 
 const Mainsection = styled.section `
     text-align: center;
-    padding: 100px 20px;
+    padding: 60px 20px;
     max-width: 800px;
     margin: auto;
     color: white;
